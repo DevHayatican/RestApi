@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Rest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD33B97-4103-4F80-ACFE-2F5EA680BBC7}|c240tube\\c240tube.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\rest\\c240tube\\mapper\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD33B97-4103-4F80-ACFE-2F5EA680BBC7}|c240tube\\c240tube.csproj|solutionrelative:c240tube\\mapper\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD33B97-4103-4F80-ACFE-2F5EA680BBC7}|c240tube\\c240tube.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\rest\\c240tube\\service\\concrete\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD33B97-4103-4F80-ACFE-2F5EA680BBC7}|c240tube\\c240tube.csproj|solutionrelative:c240tube\\service\\concrete\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD33B97-4103-4F80-ACFE-2F5EA680BBC7}|c240tube\\c240tube.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\rest\\c240tube\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD33B97-4103-4F80-ACFE-2F5EA680BBC7}|c240tube\\c240tube.csproj|solutionrelative:c240tube\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD33B97-4103-4F80-ACFE-2F5EA680BBC7}|c240tube\\c240tube.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\rest\\c240tube\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD33B97-4103-4F80-ACFE-2F5EA680BBC7}|c240tube\\c240tube.csproj|solutionrelative:c240tube\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Rest\\c240tube\\mapper\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "c240tube\\mapper\\CommentMapper.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Rest\\c240tube\\mapper\\CommentMapper.cs",
+              "RelativeToolTip": "c240tube\\mapper\\CommentMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:39:22.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Rest\\c240tube\\service\\concrete\\AuthService.cs",
+              "RelativeDocumentMoniker": "c240tube\\service\\concrete\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Rest\\c240tube\\service\\concrete\\AuthService.cs",
+              "RelativeToolTip": "c240tube\\service\\concrete\\AuthService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv1kAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:15:40.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Rest\\c240tube\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "c240tube\\Controllers\\VideoController.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Rest\\c240tube\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "c240tube\\Controllers\\VideoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:03:14.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Rest\\c240tube\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "c240tube\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Rest\\c240tube\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "c240tube\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:50:43.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
